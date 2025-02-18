@@ -1,0 +1,5 @@
+*.sh eol=lf
+*.ps1 eol=lf
+*.go eol=lf
+*.mod eol=lf
+*.sum eol=lf
